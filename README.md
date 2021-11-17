@@ -2,6 +2,7 @@
 - 👀 I’m aspiring to be a data analyst
 - 🌱 I’m currently taking different certificate programs to solidify my analytic skills
 - 💞️ I’m interested in using SQL and R for analysis and Tableau for visualizations 
+- I'm mostly using github to build my portfolio for job opportunities
 
 <!---
 kaydevarona/kaydevarona is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
